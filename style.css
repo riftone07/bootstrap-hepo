@@ -1,3 +1,6 @@
 .bg-base{
 	background-color: #754ffe ;
 }
+#montabs .active{
+    border-bottom: 3px solid blue
+}
